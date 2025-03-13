@@ -7,7 +7,8 @@ Welcome to my **AI Learning Journey** repository! This repo documents my progres
 ## 🎯 **Learning Outcomes**  
 
 ### **1️⃣ Large Language Models (LLMs) & Transformers**  
-- Text preprocessing and converting text to vector so that model can understand that. 
+- Text preprocessing and converting text to vector so that model can understand that.
+- Running that vector in machine learning model
 - Understanding **Transformer architecture** & **self-attention mechanism**  
 - Training & fine-tuning models like **GPT-3, Llama, Falcon, Mistral**  
 - Implementing **Retrieval-Augmented Generation (RAG)** with vector databases  
